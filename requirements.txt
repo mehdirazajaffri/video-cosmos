@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+aiofiles
+azure-storage-blob
+azure-cosmos
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+python-dateutil
+email-validator
+pydantic[email]
